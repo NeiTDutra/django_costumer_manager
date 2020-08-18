@@ -1,3 +1,7 @@
 db.sqlite3
-/.venv/*
+.venv/*
 /crm/settings.py
+*.log
+*.pyc
+__pycache__/
+.env
